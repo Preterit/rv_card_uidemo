@@ -2,7 +2,6 @@ package com.xiangxue.rv_card_uidemo
 
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import java.util.logging.Level
 
 /**
  * Date:2019-11-26
@@ -65,11 +64,6 @@ class SwipeCardLayoutManager : RecyclerView.LayoutManager() {
                     view.scaleY = CardConfig.SCALE_GAP * (level - 1)
                 }
             }
-//            if (level == 0) {
-//                view.translationY = (CardConfig.TRANS_Y_GAP * level).toFloat()
-//                view.scaleX = 1 - CardConfig.SCALE_GAP * level
-//                view.scaleY = 1 - CardConfig.SCALE_GAP * level
-//            }
         }
 
 

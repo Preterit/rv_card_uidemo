@@ -40,13 +40,10 @@ class MainActivity : AppCompatActivity() {
         }
         rv.adapter = adapter
 
-        val callBack = SwipeCardCallBack(rv,adapter,datas)
+        val callBack = SwipeCardCallBack(adapter,datas)
         val helper = ItemTouchHelper(callBack)
         helper.attachToRecyclerView(rv)
 
-        for (data in datas) {
-
-        }
 
     }
 }
