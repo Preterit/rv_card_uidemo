@@ -30,6 +30,9 @@ class SwipeCardCallBack(
 
     }
 
+    /**
+     * 动画
+     */
     override fun onChildDraw(
         c: Canvas,
         recyclerView: RecyclerView,
@@ -41,8 +44,8 @@ class SwipeCardCallBack(
     ) {
         super.onChildDraw(c, recyclerView, viewHolder, dX, dY, actionState, isCurrentlyActive)
 
-        var maxDistance = (recyclerView.width * 0.5f).toDouble()
-        var distance = Math.sqrt((dX * dX + dY * dY).toDouble())
+        var maxDistance = (recyclerView.width * 0.5f).toDouble()   // 滑动的极限值
+        var distance = Math.sqrt((dX * dX + dY * dY).toDouble())   // 对角线长度
         var fraction = distance / maxDistance
 
 
