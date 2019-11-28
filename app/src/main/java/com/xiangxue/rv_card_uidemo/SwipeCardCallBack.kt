@@ -72,6 +72,9 @@ class SwipeCardCallBack(
 
     }
 
+    /**
+     * 滑动区域
+     */
     override fun getSwipeThreshold(viewHolder: RecyclerView.ViewHolder): Float {
         return 0.2.toFloat()
     }
