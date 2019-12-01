@@ -27,49 +27,49 @@ class SwipeCardBean {
         datas.add(
             SwipeCardBean(
                 i++,
-                "http://img5q.duitang.com/uploads/item/201505/04/20150504155117_8i4Rk.thumb.700_0.jpeg",
+                "http://b-ssl.duitang.com/uploads/item/201804/14/20180414174003_HtTWY.jpeg",
                 "美女1"
             )
         )
         datas.add(
             SwipeCardBean(
                 i++,
-                "http://cdnq.duitang.com/uploads/item/201505/04/20150504155014_irFvu.thumb.700_0.jpeg",
+                "http://b-ssl.duitang.com/uploads/blog/201401/16/20140116161553_Mus5Z.jpeg",
                 "美女2"
             )
         )
         datas.add(
             SwipeCardBean(
                 i++,
-                "http://img5q.duitang.com/uploads/item/201309/17/20130917032356_hdGjF.thumb.700_0.jpeg",
+                "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575178755766&di=568d0124197a2347625bf6063c36e806&imgtype=0&src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2F7e2155b585a30f37a2d68af8b25590eae12ad5f9.jpg",
                 "美女3"
             )
         )
         datas.add(
             SwipeCardBean(
                 i++,
-                "http://img5q.duitang.com/uploads/item/201505/04/20150504155137_JWcRK.thumb.700_0.jpeg",
+                "http://b-ssl.duitang.com/uploads/item/201508/10/20150810172701_QT5dk.jpeg",
                 "美女4"
             )
         )
         datas.add(
             SwipeCardBean(
                 i++,
-                "http://img5q.duitang.com/uploads/item/201505/04/20150504155036_zNrPT.thumb.700_0.jpeg",
+                "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3692474013,25868374&fm=26&gp=0.jpg",
                 "美女5"
             )
         )
         datas.add(
             SwipeCardBean(
                 i++,
-                "http://img5q.duitang.com/uploads/item/201504/26/201504262026_weMcT.thumb.700_0.jpeg",
+                "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575178755952&di=2838c567d5a8f35f4a37b3a18889c46e&imgtype=0&src=http%3A%2F%2Fimage.namedq.com%2Fuploads%2F20181220%2F17%2F1545296990-nqGUCaNIpc.jpg",
                 "美女6"
             )
         )
         datas.add(
             SwipeCardBean(
                 i++,
-                "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1560164210849&di=c6ea3fdd3ec938600ddde9022f46033c&imgtype=0&src=http%3A%2F%2Fbbs-fd.zol-img.com.cn%2Ft_s800x5000%2Fg4%2FM09%2F00%2F07%2FCg-4WlJA9zCIPZ8PAAQWAhRW0ssAAMA8wD2hYAABBYa996.jpg",
+                "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575178755767&di=0804b1db19c6fa9fc497bff1d4c7a20f&imgtype=0&src=http%3A%2F%2Fimg3.duitang.com%2Fuploads%2Fitem%2F201605%2F20%2F20160520195534_FMQWa.thumb.700_0.jpeg",
                 "美女7"
             )
         )
